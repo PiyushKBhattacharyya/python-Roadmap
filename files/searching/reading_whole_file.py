@@ -1,0 +1,5 @@
+xfile = open('1.txt')
+inp = xfile.read()
+print(len(inp))
+print(f'Slicing 20 char: {inp[:20]}')
+print(f'Printing in Reverse: {inp[::-1]}')
