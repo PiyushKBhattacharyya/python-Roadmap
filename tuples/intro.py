@@ -1,0 +1,7 @@
+x = ('a','b','c')
+y = (1,2,3)
+print(f'Str Tuple: {x}\nInt Tuple: {y}')
+print(f'Max of y: {max(y)}')
+# print(f'Tuple Methods: {dir(tuple())}')
+(a, b) = (4, 'c')
+print(f'a: {a}\tb: {b}')
